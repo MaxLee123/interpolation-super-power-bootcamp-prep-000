@@ -12,4 +12,4 @@ def display_rainbow(colours)
   puts "V: #{colours[6]}"
 end
 
-display_rainbow
+display_rainbow(colours)
