@@ -3,7 +3,7 @@
 col = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
 def display_rainbow(colours)
-  puts "R: #{colours[1]}"
+  puts "R: #{colours[0]}"
   puts "O: #{colours[1]}"
   puts "Y: #{colours[2]}"
   puts "G: #{colours[3]}"
